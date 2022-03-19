@@ -10,6 +10,7 @@ import Form3 from './Form3';
 import Form4 from './Form4';
 import Form5 from './Form5';
 import Form6 from './Form6';
+import Form7 from './Form7';
 
 
 
@@ -42,6 +43,9 @@ function App() {
           </Route >
           <Route path='/Form6'>
             <Form6/>
+          </Route >
+          <Route path='/Form7'>
+            <Form7/>
           </Route >
 
 

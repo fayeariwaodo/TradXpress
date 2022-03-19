@@ -24,7 +24,7 @@ const Form2 = () => {
           By clicking the Sign Up button below, you agree to TradExpress <a href="">terms and service</a>
           </h6>
       </div>
-      <a href=""><button className='up'>Sign Up</button></a>
+      <Link><button className='up'>Sign Up</button></Link>
  
     </div>
   )

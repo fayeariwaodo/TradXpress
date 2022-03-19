@@ -3,9 +3,9 @@ import "./Customer.css";
 import trade from "./Images/Union 1.svg";
 import quote from "./Images/Group 8699 (1).svg";
 
-import joe from './Images/Joe.jpg'
-import fae from './Images/Fae.jpg'
-import nate from './Images/Nate.jpg'
+import joe from './Images/peter_avatar.jpg'
+import fae from './Images/rilwan_avatar.jpeg'
+import nate from './Images/joseph_avatar.jpg'
 
 const Customer = () => {
   return (

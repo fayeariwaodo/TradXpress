@@ -2,6 +2,7 @@ import React from 'react'
 import './Landingpage.css'
 import playstore from './Images/Group 69.svg'
 import apple from './Images/Group 68.svg'
+import { Link } from 'react-router-dom'
 
 
 
@@ -17,7 +18,7 @@ const Landingpage = () => {
                Easily Trade Cryptocurriencies like  BTC, USD, ETH, LTC & XRP with NGN.
             </p>
               <div className='abtn'>
-              <a ><button className='Start'>Get    Started</button></a>
+              <Link to='/Form4' ><button className='Start'>Get    Started</button></Link>
               </div>
            
            <div className='btnflex'>

@@ -1,5 +1,5 @@
 import React from 'react'
-import './Form4.css'
+
 import { Link } from 'react-router-dom'
 import mark from './Images/Icon awesome-check-circle.svg'
 
@@ -17,8 +17,8 @@ const Form4 = () => {
 
 
       <div className='move'>
-          <img src={mark} alt="" />
-          <h6>remember password</h6> 
+          <img src={mark} alt="" /><h6>remember password</h6> 
+          
           <Link className='forgot'>forgot password? </Link>
       </div>
      

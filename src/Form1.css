@@ -1,45 +1,590 @@
-.form1 {
-  width: 35%;
-  background: #fbf8fd 0% 0% no-repeat padding-box;
-  box-shadow: 0px 2px 3px #000000;
-  opacity: 1;
-  margin: auto;
-  text-align: center;
-  margin-top: 5%;
-  padding-top: 2rem;
-  border-radius: 5px;
-  height: 515px;
-}
-.name {
-  padding: 4%;
-  /* border-style: solid; */
-  width: 90%;
-}
+@media (min-width: 320px) {
+  .form1 {
+    width: 60%;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2rem;
+    border-radius: 5px;
+    height: 311px;
+  }
+  .para{
+    padding: 5%;
+ }
+  .name {
+    padding: 4%;
+    /* border-style: solid; */
+    width: 90%;
+  }
 
-input {
-  width: 100%;
-  border-style: none;
-}
+  input {
+    width: 100%;
+    border-style: none;
+  }
 
-.up {
+  .up {
     width: 45%;
     background-color: #7c20bf;
     border-radius: 10px;
     border-style: none;
     /* padding: 2%; */
     margin-top: 1%;
-}
-/* * {
-  overflow: hidden;
-} */
+  }
+  /* * {
+        overflow: hidden;
+      } */
 
-.individual {
-  width: 30%;
-  border-radius: 5px;
-  border-style: none;
-}
-.individual:hover{
+  .individual {
+    width: 45%;
+    border-radius: 5px;
+    border-style: none;
+  }
+  .individual:hover {
     background-color: white;
-    }
+  }
+  .twobutton {
+    border-right: solid;
+    border-width: thin;
+    width: 17%;
+    /* padding: 1%;      */
+  }
+  .second {
+    width: 70%;
+  }
+  .currency {
+    margin-right: 53%;
+  }
 
-    
+  .bit {
+    padding: 1%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+
+  a {
+    text-decoration: none;
+  }
+
+  .move {
+    display: flex;
+    padding: 5%;
+  }
+  .forgot {
+    color: black;
+    padding: 2%;
+  }
+
+  .Cont {
+    width: 60%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+  }
+
+
+
+}
+@media (min-width: 375px) {
+  .form1 {
+    width: 69%;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2rem;
+    border-radius: 5px;
+    height: 329px;
+  }
+  .para{
+    padding: 5%;
+}
+  .name {
+    padding: 4%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+  input {
+    width: 100%;
+    border-style: none;
+  }
+
+  .up {
+    width: 45%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+    margin-top: 1%;
+  }
+  /* * {
+        overflow: hidden;
+      } */
+
+  .individual {
+    width: 30%;
+    border-radius: 5px;
+    border-style: none;
+  }
+  .individual:hover {
+    background-color: white;
+  }
+  .twobutton {
+    border-right: solid;
+    border-width: thin;
+    width: 17%;
+    /* padding: 1%;      */
+  }
+  .second {
+    width: 70%;
+  }
+  .currency {
+    margin-right: 53%;
+  }
+
+  .bit {
+    padding: 1%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+  a {
+    text-decoration: none;
+  }
+  .move {
+    display: flex;
+    padding: 5%;
+  }
+  .forgot {
+    color: black;
+    padding: 2%;
+  }
+
+  .Cont {
+    width: 60%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+  }
+
+
+}
+@media (min-width: 425px) {
+  .form1 {
+    width: 69%;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2rem;
+    border-radius: 5px;
+    height: 329px;
+  }
+
+  .para{
+    padding: 5%;
+ }
+  .name {
+    padding: 4%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+  input {
+    width: 100%;
+    border-style: none;
+  }
+
+  .up {
+    width: 45%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+    margin-top: 1%;
+  }
+  /* * {
+        overflow: hidden;
+      } */
+
+  .individual {
+    width: 30%;
+    border-radius: 5px;
+    border-style: none;
+  }
+  .individual:hover {
+    background-color: white;
+  }
+
+  .move {
+    display: flex;
+    padding: 5%;
+  }
+  .forgot {
+    color: black;
+    padding: 2%;
+  }
+
+  .twobutton {
+    border-right: solid;
+    border-width: thin;
+    width: 17%;
+    /* padding: 1%;      */
+  }
+  .second {
+    width: 70%;
+  }
+  .currency {
+    margin-right: 53%;
+  }
+
+  .bit {
+    padding: 1%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+
+  a {
+    text-decoration: none;
+  }
+}
+@media (min-width: 768px) {
+  .form1 {
+    width: 45%;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    margin-top: 25%;
+    padding-top: 2rem;
+    border-radius: 5px;
+    height: 340px;
+  }
+  .para{
+    padding: 5%;
+}
+  .name {
+    padding: 4%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+  input {
+    width: 100%;
+    border-style: none;
+  }
+
+  .up {
+    width: 45%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+    margin-top: 1%;
+  }
+  /* * {
+        overflow: hidden;
+      } */
+
+  .individual {
+    width: 30%;
+    border-radius: 5px;
+    border-style: none;
+  }
+  .individual:hover {
+    background-color: white;
+  }
+  .move {
+    display: flex;
+    padding: 5%;
+  }
+  .forgot {
+    color: black;
+    padding: 2%;
+  }
+
+  .twobutton {
+    border-right: solid;
+    border-width: thin;
+    width: 17%;
+    /* padding: 1%;      */
+  }
+  .second {
+    width: 70%;
+  }
+  .currency {
+    margin-right: 53%;
+  }
+
+  .bit {
+    padding: 1%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+
+  a {
+    text-decoration: none;
+  }
+
+
+
+}
+@media (min-width: 1024px) {
+  .form1 {
+    width: 35%;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2rem;
+    border-radius: 5px;
+    height: 515px;
+  }
+  .name {
+    padding: 4%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+  input {
+    width: 100%;
+    border-style: none;
+  }
+
+  .up {
+    width: 45%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+    margin-top: 1%;
+  }
+  /* * {
+        overflow: hidden;
+      } */
+
+  .individual {
+    width: 30%;
+    border-radius: 5px;
+    border-style: none;
+  }
+  .individual:hover {
+    background-color: white;
+  }
+  .move {
+    display: flex;
+    padding: 5%;
+  }
+  .forgot {
+    color: black;
+    padding: 2%;
+  }
+
+  .twobutton {
+    border-right: solid;
+    border-width: thin;
+    width: 17%;
+    /* padding: 1%;      */
+  }
+  .second {
+    width: 70%;
+  }
+  .currency {
+    margin-right: 53%;
+  }
+
+  .bit {
+    padding: 1%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+  a {
+    text-decoration: none;
+  }
+
+
+
+
+}
+@media (min-width: 1366px) {
+  .form1 {
+    width: 35%;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2rem;
+    border-radius: 5px;
+    height: 515px;
+  }
+  .para{
+    padding: 5%;
+}
+  .name {
+    padding: 4%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+  input {
+    width: 100%;
+    border-style: none;
+  }
+
+  .up {
+    width: 45%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+    margin-top: 1%;
+  }
+  /* * {
+        overflow: hidden;
+      } */
+
+  .individual {
+    width: 30%;
+    border-radius: 5px;
+    border-style: none;
+  }
+  .individual:hover {
+    background-color: white;
+  }
+
+  .move {
+    display: flex;
+    padding: 5%;
+  }
+  .forgot {
+    color: black;
+    padding: 2%;
+  }
+  .twobutton {
+    border-right: solid;
+    border-width: thin;
+    width: 17%;
+    /* padding: 1%;      */
+  }
+  .second {
+    width: 70%;
+  }
+  .currency {
+    margin-right: 53%;
+  }
+
+  .bit {
+    padding: 1%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+
+  a {
+    text-decoration: none;
+  }
+
+
+}
+@media (min-width: 1440px) {
+  .form1 {
+    width: 30%;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2rem;
+    border-radius: 5px;
+    height: 525px;
+  }
+  .para{
+    padding: 5%;
+}
+  .name {
+    padding: 4%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+  input {
+    width: 100%;
+    border-style: none;
+  }
+
+  .up {
+    width: 45%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+    margin-top: 1%;
+  }
+ 
+
+  .individual {
+    width: 30%;
+    border-radius: 5px;
+    border-style: none;
+  }
+  .individual:hover {
+    background-color: white;
+  }
+  .move {
+    display: flex;
+    padding: 5%;
+  }
+  .forgot {
+    color: black;
+    padding: 2%;
+  }
+
+  .Cont {
+    width: 60%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+  }
+  .twobutton {
+    border-right: solid;
+    border-width: thin;
+    width: 17%;
+    /* padding: 1%;      */
+  }
+  .second {
+    width: 70%;
+  }
+  .currency {
+    margin-right: 53%;
+  }
+
+  .bit {
+    padding: 1%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+
+
+  a {
+    text-decoration: none;
+  }
+
+}

@@ -17,7 +17,7 @@ const Navigate = () => {
               <Link to='./Form3' className="buy-sell" a-white> Instant Buy/Sell</Link>
               <Link to='./Form6' className="leanform" a-white>Learn</Link>
               <Link to='./Form4' className="NavLink" ><button className="logbtn">Login</button></Link>
-              <Link to='/Form1'><button className="getbtn">Get Started</button></Link>
+              <Link to='./Form1'><button className="getbtn">Get Started</button></Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
