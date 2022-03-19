@@ -1,0 +1,543 @@
+@media(min-width:320px){
+    .reviewflex{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .text1{
+        position: relative;
+        bottom: 252px;
+        width: 235px;
+        left: 54px;
+        color: white;
+    }
+    .pro, .lean, .legal, .comp{
+        display: none;
+    }
+    .contact{
+        text-align: center;
+    }
+    li{
+        list-style: none;
+    }
+    .copyimg{
+        width: 147px;
+    }
+    .copyright{
+        margin: auto;
+        /* justify-content: center; */
+        text-align: center;
+    }
+    
+    .reviewpic{
+        padding: 1%;
+    
+    }
+    .img1{
+        position: relative;
+        bottom: 191px;
+        right: 65px
+    }
+    .img2{
+        position: relative;
+        bottom: 237px;
+        left: 20px;
+    }
+    
+    .reviewimg{
+        width: 295px;
+    }
+    .review{
+        margin: auto;
+        text-align: center;
+    }
+    
+    .reviewall{
+        background-color: #F2F2F2;
+        padding: 2%;
+    }
+    .faye, .joe, .nate{
+        width: 80px;
+     border-radius: 61px;
+     padding: 2%;
+    }
+    
+    .Footer{
+        background-color: white;
+        /* display: flex; */
+      
+       
+    }
+
+    /* .img{     
+        width: 30px;
+        position: relative;
+        right: 79rem;
+        color: white;
+        top: 4rem;
+      }
+   
+       .text{
+           width: 288px;
+           position: relative;
+           right: 77rem;
+           color: white;
+           top: 3rem;
+       }
+   
+       
+       .text1{
+           width: 259px;
+           position: relative;
+           right: 66rem;
+           color: white;
+           top: 3rem;
+       }
+   
+   
+       
+       .text2{
+           width: 282px;
+           position: relative;
+           right: 56rem;
+           color: white;
+           top: 3rem;
+       }
+   
+   
+      .img1{
+       width: 30px;
+       position: relative;
+       right: 6rem;
+       color: white;
+       top: 4rem;
+   
+      }
+      .img2{
+       width: 30px;
+       position: relative;
+       right: 58rem;
+       color: white;
+       top: 4rem;
+   
+      } */
+   
+
+   
+
+
+}@media(min-width:375px){
+    .reviewflex{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .text1{
+        position: relative;
+        bottom: 252px;
+        width: 235px;
+        left: 54px;
+        color: white;
+    }
+    .pro, .lean, .legal, .comp{
+        display: none;
+    }
+    .contact{
+        text-align: center;
+    }
+    li{
+        list-style: none;
+    }
+    .copyimg{
+        width: 147px;
+    }
+    .copyright{
+        margin: auto;
+        /* justify-content: center; */
+        text-align: center;
+    }
+    
+    .reviewpic{
+        padding: 1%;
+    
+    }
+    .img1{
+        position: relative;
+        bottom: 191px;
+        right: 65px
+    }
+    .img2{
+        position: relative;
+        bottom: 193px;
+        left: -64px;
+    
+    }
+    
+    .reviewimg{
+        width: 295px;
+    }
+    .review{
+        margin: auto;
+        text-align: center;
+    }
+    
+    .reviewall{
+        background-color: #F2F2F2;
+        padding: 2%;
+    }
+    .faye, .joe, .nate{
+        width: 80px;
+     border-radius: 61px;
+     padding: 2%;
+    }
+    
+    .Footer{
+        background-color: white;
+        /* display: flex; */
+      
+       
+    }
+
+}
+@media(min-width:425px){
+    .reviewflex{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .text1{
+        position: relative;
+        bottom: 299px;
+        width: 350px;
+        left: 61px;
+        color: white;
+    }
+    .pro, .lean, .legal, .comp{
+        display: none;
+    }
+    .contact{
+        text-align: center;
+    }
+    li{
+        list-style: none;
+    }
+    .copyimg{
+        width: 147px;
+    }
+    .copyright{
+        margin: auto;
+        /* justify-content: center; */
+        text-align: center;
+    }
+    
+    .reviewpic{
+        padding: 1%;
+    
+    }
+    .img1{
+        position: relative;
+        bottom: 244px;
+        right: 65px
+    }
+    .img2{
+        position: relative;
+        bottom: 246px;
+        left: -64px;
+    
+    }
+    
+    .reviewimg{
+        width: 411px;    }
+    .review{
+        margin: auto;
+        text-align: center;
+    }
+    
+    .reviewall{
+        background-color: #F2F2F2;
+        padding: 2%;
+    }
+    .faye, .joe, .nate{
+        width: 80px;
+     border-radius: 61px;
+     padding: 2%;
+    }
+    
+    .Footer{
+        background-color: white;
+        /* display: flex; */
+      
+       
+    }
+
+}
+
+@media(min-width:768px){
+    .reviewflex{
+        display: flex;
+        flex-direction: column;
+       
+    }
+    .text1{
+        position: relative;
+        bottom: 426px;
+        width: 60%;
+        left: 105px;
+        color: white;
+    }
+    .pro, .lean, .legal, .comp{
+        display: none;
+    }
+    .contact{
+        text-align: center;
+    }
+    li{
+        list-style: none;
+    }
+    .copyimg{
+        width: 147px;
+    }
+    .copyright{
+        margin: auto;
+        /* justify-content: center; */
+        text-align: center;
+    }
+    
+    .reviewpic{
+        padding: 1%;
+    
+    }
+    .img1{
+        
+      position: relative;
+     bottom: 327px;
+     right: 103px;
+
+    }
+    .img2{
+        position: relative;
+        bottom: 321px;
+        left: -85px;
+
+    
+    }
+    
+    .reviewimg{
+        width: 80%;    }
+    .review{
+        margin: auto;
+        text-align: center;
+    }
+    
+    .reviewall{
+        background-color: #F2F2F2;
+        padding: 2%;
+    }
+    .faye, .joe, .nate{
+        width: 151px;
+        border-radius: 100%;
+        padding: 2%;
+    }
+    
+    .Footer{
+        background-color: white;
+        /* display: flex; */
+      
+       
+    }
+
+}
+@media(min-width:1024px){
+    .reviewflex{
+        display: flex;
+        flex-direction: row;
+       
+    }
+    .text1{
+        position: relative;
+        bottom: 257px;
+        width: 85%;
+        left: 37px;
+        color: white;
+    }
+    .pro {
+        display: block;
+       
+    }
+    .lean{
+        display: block;
+      
+    }
+     .legal{
+        display: block;
+      
+     }
+     .comp{
+        display: block;
+      
+     }
+     .contact{
+        display: block;
+        text-align: left;
+        
+    }
+  
+    li{
+        list-style: none;
+    }
+    .copyimg{
+        width: 147px;
+    }
+    .copyright{
+        margin: auto;
+        /* justify-content: center; */
+        text-align: center;
+    }
+    
+    .reviewpic{
+        padding: 1%;
+        width: 35%;
+    
+    }
+    .img1{
+        
+        position: relative;
+      bottom: 188px;
+      right: 86px;
+
+    }
+    .img2{
+        position: relative;
+        bottom: 187px;
+        left: -88px;
+
+    
+    }
+    
+    .reviewimg{
+        width: 100%;   
+     }
+    .review{
+        margin: auto;
+        text-align: center;
+    }
+    
+    .reviewall{
+        background-color: #F2F2F2;
+        padding: 2%;
+    }
+    .faye, .joe, .nate{
+        width: 91px;
+        border-radius: 100%;
+        padding: 2%;
+    }
+    
+    .Footer{
+        background-color: white;
+        display: flex;
+        justify-content: space-around;
+      
+       
+    }
+
+
+
+}
+
+
+@media(min-width:1366px){
+    .reviewflex{
+        display: flex;
+        flex-direction: row;
+       
+    }
+    .text1{
+        position: relative;
+        bottom: 257px;
+        width: 85%;
+        left: 37px;
+        color: white;
+    }
+    .pro {
+        display: block;
+       
+    }
+    .lean{
+        display: block;
+      
+    }
+     .legal{
+        display: block;
+      
+     }
+     .comp{
+        display: block;
+      
+     }
+     .contact{
+        display: block;
+        text-align: left;
+        
+    }
+  
+    li{
+        list-style: none;
+    }
+    .copyimg{
+        width: 147px;
+    }
+    .copyright{
+        margin: auto;
+        /* justify-content: center; */
+        text-align: center;
+    }
+    
+    .reviewpic{
+        padding: 1%;
+        width: 35%;
+    
+    }
+    .img1{
+        
+        position: relative;
+      bottom: 188px;
+      right: 86px;
+
+    }
+    .img2{
+        position: relative;
+        bottom: 187px;
+        left: -88px;
+
+    
+    }
+    
+    .reviewimg{
+        width: 100%;   
+     }
+    .review{
+        margin: auto;
+        text-align: center;
+    }
+    
+    .reviewall{
+        background-color: #F2F2F2;
+        padding: 2%;
+    }
+    .faye, .joe, .nate{
+        width: 91px;
+        border-radius: 100%;
+        padding: 2%;
+    }
+    
+    .Footer{
+        background-color: white;
+        display: flex;
+        justify-content: space-around;
+      
+       
+    }
+
+
+
+}

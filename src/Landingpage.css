@@ -1,0 +1,271 @@
+@media (min-width: 320px) {
+  .homepage {
+    background-color: #7c20be;
+    height: 350px;
+    padding-top: 2%;
+    color: white;
+  }
+
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA;
+  }
+  .container {
+    width: 50%;
+  }
+
+  .Buy {
+    color: white;
+    padding-top: 3%;
+    /* text-align: justify; */
+    
+  }
+
+
+  .crypto {
+    color: white;
+  }
+
+  .Start {
+    width: 300px;
+    height: 40px;
+    color: #7c20be;
+    border-radius: 5px;
+    border-color: white;
+  }
+
+  .abtn {
+    padding-top: 1%;
+    padding-bottom: 2%;
+  }
+
+  .btnflex {
+    display: flex;
+  }
+}
+@media(min-width:375px){
+  .homepage {
+    background-color: #7c20be;
+    height: 350px;
+    padding-top: 2%;
+    color: white;
+  }
+
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA;
+  }
+  .container {
+    width: 50%;
+  }
+
+  .Buy {
+    color: white;
+    padding-top: 3%;
+    /* text-align: justify; */
+    
+  }
+
+
+  .crypto {
+    color: white;
+  }
+
+  .Start {
+    width: 300px;
+    height: 40px;
+    color: #7c20be;
+    border-radius: 5px;
+    border-color: white;
+  }
+
+  .abtn {
+    padding-top: 1%;
+    padding-bottom: 2%;
+  }
+
+  .btnflex {
+    display: flex;
+  }
+}
+@media(min-width:425px){
+  .homepage {
+    background-color: #7c20be;
+    height: 350px;
+    padding-top: 2%;
+    color: white;
+  }
+
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA;
+  }
+  .container {
+    width: 50%;
+  }
+
+  .Buy {
+    color: white;
+    padding-top: 3%;
+    /* text-align: justify; */
+    
+  }
+
+
+  .crypto {
+    color: white;
+  }
+
+  .Start {
+    width: 300px;
+    height: 40px;
+    color: #7c20be;
+    border-radius: 5px;
+    border-color: white;
+  }
+
+  .abtn {
+    padding-top: 1%;
+    padding-bottom: 2%;
+  }
+
+  .btnflex {
+    display: flex;
+  }
+}
+@media(min-width:768px){
+  .homepage {
+    background-color: #7c20be;
+    height: 350px;
+    padding-top: 2%;
+    color: white;
+  }
+
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA;
+  }
+  .container {
+    width: 50%;
+  }
+
+  .Buy {
+    color: white;
+    padding-top: 3%;
+    /* text-align: justify; */
+    
+  }
+
+
+  .crypto {
+    color: white;
+  }
+
+  .Start {
+    width: 300px;
+    height: 40px;
+    color: #7c20be;
+    border-radius: 5px;
+    border-color: white;
+  }
+
+  .abtn {
+    padding-top: 1%;
+    padding-bottom: 2%;
+  }
+
+  .btnflex {
+    display: flex;
+  }
+}
+@media(min-width:1024px){
+  .homepage {
+    background-color: #7c20be;
+    height: 350px;
+    padding-top: 2%;
+    color: white;
+  }
+
+  .container {
+    width: 50%;
+  }
+
+  .Buy {
+    color: white;
+    padding-top: 3%;
+    /* text-align: justify; */
+    
+  }
+
+
+  .crypto {
+    color: white;
+  }
+
+  .Start {
+    width: 300px;
+    height: 40px;
+    color: #7c20be;
+    border-radius: 5px;
+    border-color: white;
+  }
+
+  .abtn {
+    padding-top: 1%;
+    padding-bottom: 2%;
+  }
+
+  .btnflex {
+    display: flex;
+  }
+}
+
+
+@media (min-width: 1366px) {
+  .homepage {
+    background-color: #7c20be;
+    height: 350px;
+    /* border-style: solid; */
+    /* padding: 15%; */
+    /* padding-left: 2%; */
+    padding-top: 2%;
+  }
+
+  .container {
+    /* width: 50%; */
+    color: white;
+    /* padding-top: 3%; */
+  }
+
+  .Buy {
+  
+    /* text-align: justify; */
+    color: white;
+    padding-top: 3%;
+  }
+
+  .crypto {
+    color: white;
+  }
+
+  .Start {
+    /* width: 300px; */
+    height: 40px;
+    color: #7c20be;
+    border-radius: 5px;
+    border-color: white;
+  }
+
+  .abtn {
+    padding-top: 1%;
+    padding-bottom: 2%;
+  }
+
+  .btnflex {
+    display: flex;
+  }
+}

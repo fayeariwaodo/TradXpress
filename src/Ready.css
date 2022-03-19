@@ -1,0 +1,252 @@
+@media(min-width:320px){
+    .Read{
+        margin: auto;
+        text-align: center;
+        padding: 5%;
+        background-color: #FFFFFF;
+    
+    }
+    
+    .acctbtn{
+        width: 300px;
+        height: 40px;
+        background-color:#7C20BE  ;
+        color: white;
+        border-style: none;
+    
+    }
+    
+    .btttn{
+        margin: auto;
+    text-align: center;
+     /* padding-top: 1%;
+        padding-bottom: 1%; */
+    
+    }
+    .appstore{
+        background-color: #26093A;
+    }
+    
+    .store{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+    }
+}
+
+@media(min-width:375px){
+    .Read{
+        margin: auto;
+        text-align: center;
+        padding: 5%;
+        background-color: #FFFFFF;
+    
+    }
+    
+    .acctbtn{
+        width: 300px;
+        height: 40px;
+        background-color:#7C20BE  ;
+        color: white;
+        border-style: none;
+    
+    }
+    
+    .btttn{
+        margin: auto;
+    text-align: center;
+     /* padding-top: 1%;
+        padding-bottom: 1%; */
+    
+    }
+    .appstore{
+        background-color: #26093A;
+    }
+    
+    .store{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+    }
+}
+
+@media(min-width:425px){
+    .Read{
+        margin: auto;
+        text-align: center;
+        padding: 5%;
+        background-color: #FFFFFF;
+    
+    }
+    .appstore{
+        background-color: #26093A;
+    }
+    
+    .acctbtn{
+        width: 300px;
+        height: 40px;
+        background-color:#7C20BE  ;
+        color: white;
+        border-style: none;
+    
+    }
+    
+    .btttn{
+        margin: auto;
+    text-align: center;
+     /* padding-top: 1%;
+        padding-bottom: 1%; */
+    
+    }
+    
+    .store{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+    }
+}
+
+@media(min-width:768px){
+    .Read{
+        margin: auto;
+        text-align: center;
+        padding: 5%;
+        background-color: #FFFFFF;
+    
+    }
+    .appstore{
+        background-color: #26093A;
+    }
+    
+    .acctbtn{
+        width: 300px;
+        height: 40px;
+        background-color:#7C20BE  ;
+        color: white;
+        border-style: none;
+    
+    }
+    
+    .btttn{
+        margin: auto;
+    text-align: center;
+     /* padding-top: 1%;
+        padding-bottom: 1%; */
+    
+    }
+    
+    .store{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+    }
+}
+
+@media(min-width:1024px){
+    .Read{
+        margin: auto;
+        text-align: center;
+        padding: 5%;
+        background-color: #FFFFFF;
+    
+    }
+    .appstore{
+        background-color: #26093A;
+    }
+    
+    .acctbtn{
+        width: 300px;
+        height: 40px;
+        background-color:#7C20BE  ;
+        color: white;
+        border-style: none;
+    
+    }
+    
+    .btttn{
+        margin: auto;
+    text-align: center;
+     /* padding-top: 1%;
+        padding-bottom: 1%; */
+    
+    }
+    
+    .store{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+    }
+}
+
+@media(min-width:1366px){
+    .Read{
+        margin: auto;
+        text-align: center;
+        padding: 2%;
+        background-color: #FFFFFF;
+    
+    }
+
+    .appstore{
+        background-color: #26093A;
+    }
+    
+    .acctbtn{
+        width: 300px;
+        height: 40px;
+        background-color:#7C20BE  ;
+        color: white;
+        border-style: none;
+    
+    }
+    
+    .btttn{
+        margin: auto;
+    text-align: center;
+     /* padding-top: 1%;
+        padding-bottom: 1%; */
+    
+    }
+    
+    .store{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+    }
+}
+@media(min-width:1440px){
+    .Read{
+        margin: auto;
+        text-align: center;
+        padding: 2%;
+        background-color: #FFFFFF;
+    
+    }
+
+    .appstore{
+        background-color: #26093A;
+    }
+    
+    .acctbtn{
+        width: 300px;
+        height: 40px;
+        background-color:#7C20BE  ;
+        color: white;
+        border-style: none;
+    
+    }
+    
+    .btttn{
+        margin: auto;
+    text-align: center;
+     /* padding-top: 1%;
+        padding-bottom: 1%; */
+    
+    }
+    
+    .store{
+        display: flex;
+        justify-content: center;
+        padding: 2%;
+    }
+}

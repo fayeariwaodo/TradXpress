@@ -1,0 +1,192 @@
+
+@media (min-width:320px){
+  .you{
+    padding: 2% 2% 0% 2%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+}
+@media(min-width:375px){
+  .you{
+    padding: 2% 2% 0% 2%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+
+
+
+
+}
+@media(min-width:425px){
+  .you{
+    padding: 2% 2% 0% 2%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+
+
+
+
+}
+@media(min-width:768px){
+  .you{
+    padding: 2% 2% 0% 2%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+
+
+
+
+}
+
+@media(min-width:1024px){
+  .you{
+    padding: 1% 1% 0% 1%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: row;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+
+
+
+
+}
+
+@media (min-width:1366px) {
+  .you{
+    padding: 2% 2% 0% 2%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100%  
+  }
+  
+  .fae{
+    display: flex;
+    flex-direction: row;
+    background-color: #F7F7FA
+  }
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      padding-bottom: 8%; 
+  
+  }
+  
+}

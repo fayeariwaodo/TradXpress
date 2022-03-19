@@ -1,0 +1,47 @@
+.form3{
+    width: 35%;
+    background: #fbf8fd 0% 0% no-repeat padding-box;
+    box-shadow: 0px 2px 3px #000000;
+    opacity: 1;
+    margin: auto;
+    text-align: center;
+    margin-top: 5%;
+    padding-top: 2rem;
+    border-radius: 5px;
+}
+.bit{
+    padding: 1%;
+    /* border-style: solid; */
+    width: 90%;
+  }
+  /* h6{
+    padding: 2%;
+      
+  } */
+  /* .inst{
+      padding: 3%;
+  } */
+  /* .individual{
+      padding: 1%;
+  } */
+
+  .Cont{
+    width: 60%;
+    background-color: #7c20bf;
+    border-radius: 10px;
+    border-style: none;
+    /* padding: 2%; */
+  }
+  .twobutton{
+      border-right: solid;
+      border-width: thin;
+      width: 10%;
+     /* padding: 1%;      */
+  }
+  .second{
+      width: 80%;
+     
+  }
+  .currency{
+      margin-right: 73%;;
+  }

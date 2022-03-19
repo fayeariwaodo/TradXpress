@@ -1,0 +1,392 @@
+@media(min-width:320px){
+
+    
+   
+    .Contain{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .sign{
+        width: 280px;
+        text-align: center;
+    }
+    .sell{
+        padding: 2%;
+        margin: auto;
+        text-align: center;
+        
+    }
+    
+    .back{
+        background-color: #F2F2F2;
+        padding: 3%;
+    }
+    
+    
+    .flexsection{
+        display: flex;
+        /* padding: 5%; */
+        flex-direction: column-reverse;
+    }
+    
+    .simpleimg{
+       
+    width: 294px;
+
+    }
+    
+    .depo{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    
+    .buyflex{
+        display: flex;
+        flex-direction: column-reverse;       
+    
+        /* padding: 5%; */
+    }
+    .buypara{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    .sellimg{
+        /* width: 50%; */
+        padding: 2%;
+    }
+    .Acct{
+        text-align: center;
+    }
+
+}
+@media(min-width:375px){
+
+    
+   
+    .Contain{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .sign{
+        width: 280px;
+        text-align: center;
+    }
+    .sell{
+        padding: 2%;
+        margin: auto;
+        text-align: center;
+        
+    }
+    
+    .back{
+        background-color: #F2F2F2;
+        padding: 3%;
+    }
+    
+    
+    .flexsection{
+        display: flex;
+        /* padding: 5%; */
+        flex-direction: column-reverse;
+    }
+    
+    .simpleimg{
+       
+    width: 294px;
+
+    }
+    
+    .depo{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    
+    .buyflex{
+        display: flex;
+        flex-direction: column-reverse;       
+    
+        /* padding: 5%; */
+    }
+    .buypara{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    .sellimg{
+        /* width: 50%; */
+        padding: 2%;
+    }
+    .Acct{
+        text-align: center;
+    }
+
+}
+
+@media(min-width:425px){
+
+    
+   
+    .Contain{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    
+    .sign{
+        width: 361px;;
+        text-align: center;
+    }
+    .sell{
+        padding: 2%;
+        margin: auto;
+        text-align: center;
+        
+    }
+    
+    .back{
+        background-color: #F2F2F2;
+        padding: 3%;
+    }
+    
+    
+    .flexsection{
+        display: flex;
+        /* padding: 5%; */
+        flex-direction: column-reverse;
+    }
+    
+    .simpleimg{
+       
+    width: 401px;
+
+    }
+    
+    .depo{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    
+    .buyflex{
+        display: flex;
+        flex-direction: column-reverse;       
+    
+        /* padding: 5%; */
+    }
+    .buypara{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    .sellimg{
+        /* width: 50%; */
+        padding: 2%;
+    }
+    .Acct{
+        text-align: center;
+    }
+
+}
+
+@media(min-width:768px){
+
+    
+   
+    .Contain{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    
+    .sign{
+        width: 100%;;
+        text-align: center;
+    }
+    .sell{
+        padding: 2%;
+        margin: auto;
+        text-align: center;
+        
+    }
+    
+    .back{
+        background-color: #F2F2F2;
+        padding: 3%;
+    }
+    
+    
+    .flexsection{
+        display: flex;
+        /* padding: 5%; */
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    
+    .simpleimg{
+       
+    width: 401px;
+
+    }
+    
+    .depo{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    
+    .buyflex{
+        display: flex;
+        flex-direction: column-reverse;  
+        align-items: center;     
+    
+        /* padding: 5%; */
+    }
+    .buypara{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    .sellimg{
+        /* width: 50%; */
+        padding: 2%;
+    }
+    .Acct{
+        text-align: center;
+    }
+
+}
+
+@media(min-width:1024px){
+
+    
+   
+    .Contain{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    
+    .sign{
+        width: 100%;;
+        text-align: center;
+    }
+    .sell{
+        padding: 2%;
+        margin: auto;
+        text-align: center;
+        
+    }
+    
+    .back{
+        background-color: #F2F2F2;
+        padding: 3%;
+    }
+    
+    
+    .flexsection{
+        display: flex;
+        /* padding: 5%; */
+        flex-direction: row-reverse;
+        align-items: center;
+    }
+    
+    .simpleimg{
+       
+    width: 401px;
+
+    }
+    
+    .depo{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    
+    .buyflex{
+        display: flex;
+        flex-direction: row;  
+        align-items: center;     
+    
+        /* padding: 5%; */
+    }
+    .buypara{
+        text-align: center;
+        /* width: 50%; */
+        /* padding: 2%; */
+    }
+    .sellimg{
+        /* width: 50%; */
+        padding: 2%;
+    }
+    .Acct{
+        text-align: center;
+    }
+
+}
+
+@media(min-width:1366px){
+    
+.Contain{
+    display: flex;
+}
+
+.free{
+    width: 50%;
+    /* padding: 2%; */
+    /* border-style: solid; */
+}
+
+.Acct{
+    width: 50%;
+    /* padding: 2%; */
+    /* border-style: solid; */
+}
+.sell{
+    padding: 2%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.back{
+    background-color: #F2F2F2;
+    padding: 3%;
+}
+
+
+.flexsection{
+    display: flex;
+    /* padding: 5%; */
+    flex-direction: row-reverse;
+}
+
+.depoimg{
+    width: 50%;
+    /* padding: 2%; */
+}
+
+.depo{
+    width: 50%;
+    /* padding: 2%; */
+}
+
+.buyflex{
+    display: flex;
+    flex-direction: row;       
+
+    /* padding: 5%; */
+}
+.buypara{
+    width: 50%;
+    /* padding: 2%; */
+}
+.sellimg{
+    width: 50%;
+    padding: 2%;
+}
+}
+

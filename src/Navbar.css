@@ -1,0 +1,53 @@
+.Navbar {
+  justify-content: center;
+}
+
+.Parent {
+  background-image: linear-gradient(#7c1fbf, #470a73);
+}
+
+.textp {
+  color: white;
+  width: 50%;
+}
+
+.logbtn {
+  background-color: transparent;
+  border: 0.1px solid;
+  border-color: #f3f3f3;
+  width: 100px;
+  height: 30px;
+  border-radius: 3px;
+  color: #ffffff;
+}
+.getbtn{
+  width: 108px;
+  height: 35px;
+  border-radius: 3px;
+  color: #470a73;
+}
+.getbtn {
+  border: 0.1px solid;
+  border-color: #f3f3f3;
+  width: 100px;
+  height: 30px;
+  border-radius: 3px;
+  color: #470a73;
+}
+a.leanform{
+  margin-left: 5%;
+  color: #f3f3f3;
+  text-decoration: none
+}
+
+.buy-sell{
+  color: white;
+  text-decoration: none
+}
+ 
+  
+a.NavLink {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
