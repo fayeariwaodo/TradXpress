@@ -1,12 +1,12 @@
 import React from "react";
 import './Form6.css';
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 
 const Form6 = () => {
   return (
     <div className="form6">
-      <h1>How to buy cryptocurrency</h1>
+         <h1 className='how'>How to buy cryptocurrency</h1>
       <p>
         You may be wondering how to buy cryptocurrency safely. There are
         typically three steps involved. These are: Step 1: Choosing a platform
@@ -25,7 +25,7 @@ const Form6 = () => {
         your platform, the next step is to fund your account so you can begin
         trading. Most crypto exchanges allow users to purchase crypto using fiat
         (i.e., government-issued) currencies such as the US Dollar, the British
-        Pound, or the Euro using their debit or credit cards – although this
+        Pound, or the Euro using their debit or credit cards although this
         varies by platform. Crypto purchases with credit cards are considered
         risky, and some exchanges don't support them. Some credit card companies
         don't allow crypto transactions either. This is because cryptocurrencies

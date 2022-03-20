@@ -28,7 +28,7 @@ const Customer = () => {
         <div className="reviewpic">
           <img className="reviewimg" src={trade} alt="" />
           <img className="faye" src={fae} alt="" />
-          <img className="img2" src={quote} alt="" />
+          <img className="img1" src={quote} alt="" />
           <p className="text1">
             They have the best rate compared to other platforms with fast
             payout.

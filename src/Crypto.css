@@ -97,6 +97,75 @@
 
 
 }
+@media (min-width:480px)  { /* smartphones, Android phones, landscape iPhone */ 
+  .you{
+    padding: 2% 2% 0% 2%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+
+
+
+ 
+  }
+@media (min-width:600px)  { /* portrait tablets, portrait iPad, e-readers (Nook/Kindle), landscape 800x480 phones (Android) */ 
+  .you{
+    padding: 2% 2% 0% 2%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+
+
+
+}
+ 
+ 
 @media(min-width:768px){
   .you{
     padding: 2% 2% 0% 2%;
@@ -132,7 +201,42 @@
 
 }
 
-@media(min-width:1024px){
+@media (min-width:801px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ 
+  .you{
+    padding: 2% 2% 0% 2%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: column-reverse;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+
+
+
+}
+
+
+@media(min-width:1025px){
   .you{
     padding: 1% 1% 0% 1%;
     outline: solid;
@@ -166,6 +270,41 @@
 
 
 }
+
+@media (min-width:1281px) { /* hi-res laptops and desktops */ 
+  .you{
+    padding: 1% 1% 0% 1%;
+    outline: solid;
+    outline-width: 1px;
+    width: 100% 
+
+ 
+    
+  }
+ 
+ 
+  .fae{
+    display: flex;
+    flex-direction: row;
+    background-color: #F7F7FA
+   
+ 
+  }
+
+ 
+  .cryptflex{
+      display: flex;
+      justify-content: space-between;
+      /* border-style: solid; */
+      width: 100%;
+      /* padding-bottom: 8%;  */
+
+  }
+
+
+}
+
+
 
 @media (min-width:1366px) {
   .you{

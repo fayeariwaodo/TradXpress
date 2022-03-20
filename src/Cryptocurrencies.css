@@ -394,3 +394,50 @@
     }
 
 }
+@media(min-width:1440px){
+
+    .sect{
+        display: flex;
+        /* border: solid; */
+        width: 95%;
+        justify-content: space-between;
+        margin: auto;
+        text-align: center;
+        /* background-color: #F2F2F2;; */
+        padding: 2%;
+        
+    }
+    
+    .part1{
+        /* border-style: solid; */
+        border-width: 1px;
+        width: 30%;
+        border-radius: 10px;
+        background-color: #FFFFFF;
+        /* border-color: #FFFFFF; */
+    
+      
+    }
+    
+    .involved{
+        margin: auto;
+        text-align: center;
+        padding: 2%;
+    
+    
+    }
+    .general{
+        background-color: #F2F2F2;
+        text-align: center;
+    }
+    
+    
+    
+    .learn{
+        width: 300px;
+        height: 40px;
+        margin: auto;
+        /* text-align: center; */
+    }
+
+}
