@@ -7,13 +7,10 @@ const Form3 = () => {
     <div className="form1">
       <h2 className="inst">Buy/Sell Instantly</h2>
 
-      <Link to="./Form3">
-        <button className="individual">Buy</button>
-      </Link>
-      <Link to="./Form7">
-        
-        <button className="individual">Sell</button>
-      </Link>
+      <div className='class'>
+          <Link className='individual' to='./Form3'>Individual</Link>
+         <Link className='individual' to='./Form7'>Business</Link>
+        </div>
 
       <h6  className="currency">Coin to Buy</h6>
       <div>

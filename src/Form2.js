@@ -15,7 +15,7 @@ const Form2 = () => {
         </div>
 
       <div className='name'>  <input type="text"  placeholder='User Name'/></div>
-      <div  className='name'>  <input type="text"  placeholder='Full Name'/></div>
+      <div  className='name'>  <input type="text"  placeholder='Business Name'/></div>
       <div className='name'>  <input type="text"  placeholder='Email'/></div>
       <div className='name'>  <input type="text"  placeholder='Phone Number'/></div>
       <div className='name'>  <input type="text"  placeholder='Referral Code (Optional'/></div>
