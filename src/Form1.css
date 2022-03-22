@@ -1,6 +1,6 @@
 @media (min-width: 320px) {
   .form1 {
-    width: 65%;
+    width: 86%;
     background: #fbf8fd 0% 0% no-repeat padding-box;
     box-shadow: 0px 2px 3px #000000;
     opacity: 1;
@@ -9,11 +9,11 @@
     margin-top: 10%;
     padding-top: 2rem;
     border-radius: 5px;
-    height: 400px;
+    height: 480px;
   }
-  .para{
+  .para {
     padding: 5%;
- }
+  }
   .name {
     padding: 4%;
     /* border-style: solid; */
@@ -37,10 +37,18 @@
         overflow: hidden;
       } */
 
+  .class {
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 50px;
+  }
   .individual {
-    width: 45%;
-    border-radius: 5px;
-    border-style: none;
+    width: 100%;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    color: black;
   }
   .individual:hover {
     background-color: white;
@@ -64,7 +72,6 @@
     width: 90%;
   }
 
-
   a {
     text-decoration: none;
   }
@@ -85,13 +92,10 @@
     border-style: none;
     /* padding: 2%; */
   }
-
-
-
 }
 @media (min-width: 375px) {
   .form1 {
-    width: 69%;
+    width: 86%;
     background: #fbf8fd 0% 0% no-repeat padding-box;
     box-shadow: 0px 2px 3px #000000;
     opacity: 1;
@@ -100,11 +104,11 @@
     margin-top: 10%;
     padding-top: 2rem;
     border-radius: 5px;
-    height: 420px;
+    height: 480px;
   }
-  .para{
+  .para {
     padding: 5%;
-}
+  }
   .name {
     padding: 4%;
     /* border-style: solid; */
@@ -128,10 +132,18 @@
         overflow: hidden;
       } */
 
+  .class {
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 50px;
+  }
   .individual {
-    width: 30%;
-    border-radius: 5px;
-    border-style: none;
+    width: 100%;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    color: black;
   }
   .individual:hover {
     background-color: white;
@@ -173,12 +185,10 @@
     border-style: none;
     /* padding: 2%; */
   }
-
-
 }
 @media (min-width: 425px) {
   .form1 {
-    width: 69%;
+    width: 86%;
     background: #fbf8fd 0% 0% no-repeat padding-box;
     box-shadow: 0px 2px 3px #000000;
     opacity: 1;
@@ -187,12 +197,12 @@
     margin-top: 10%;
     padding-top: 2rem;
     border-radius: 5px;
-    height: 450px;
+    height: 500px;
   }
 
-  .para{
+  .para {
     padding: 5%;
- }
+  }
   .name {
     padding: 4%;
     /* border-style: solid; */
@@ -216,10 +226,18 @@
         overflow: hidden;
       } */
 
+  .class {
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 50px;
+  }
   .individual {
-    width: 30%;
-    border-radius: 5px;
-    border-style: none;
+    width: 100%;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    color: black;
   }
   .individual:hover {
     background-color: white;
@@ -252,7 +270,6 @@
     /* border-style: solid; */
     width: 90%;
   }
-
 
   a {
     text-decoration: none;
@@ -271,9 +288,9 @@
     border-radius: 5px;
     height: 500px;
   }
-  .para{
+  .para {
     padding: 5%;
-}
+  }
   .name {
     padding: 4%;
     /* border-style: solid; */
@@ -297,10 +314,18 @@
         overflow: hidden;
       } */
 
+  .class {
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 50px;
+  }
   .individual {
-    width: 30%;
-    border-radius: 5px;
-    border-style: none;
+    width: 100%;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    color: black;
   }
   .individual:hover {
     background-color: white;
@@ -333,13 +358,9 @@
     width: 90%;
   }
 
-
   a {
     text-decoration: none;
   }
-
-
-
 }
 @media (min-width: 1024px) {
   .form1 {
@@ -376,12 +397,20 @@
   /* * {
         overflow: hidden;
       } */
-
-  .individual {
-    width: 30%;
-    border-radius: 5px;
-    border-style: none;
+  .class {
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 50px;
   }
+  .individual {
+    width: 100%;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    color: black;
+  }
+
   .individual:hover {
     background-color: white;
   }
@@ -415,10 +444,6 @@
   a {
     text-decoration: none;
   }
-
-
-
-
 }
 @media (min-width: 1366px) {
   .form1 {
@@ -433,22 +458,22 @@
     border-radius: 5px;
     height: 515px;
   }
-  .para{
+  .para {
     padding: 5%;
-}
+  }
   .name {
     padding: 4%;
     /* border-style: solid; */
     width: 90%;
   }
-   .class{
-     background-color: whitesmoke;
-     width:  80%;
-     margin: auto;
-     display: flex;
-     border-radius: 50px;
-   }
-   .individual {
+  .class {
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 50px;
+  }
+  .individual {
     width: 100%;
     border-radius: 50px;
     background-color: whitesmoke;
@@ -471,7 +496,6 @@
         overflow: hidden;
       } */
 
-  
   /* .indi{
     border-width: 10%;
     background-color: white;
@@ -512,12 +536,9 @@
     width: 90%;
   }
 
-
   a {
     text-decoration: none;
   }
-
-
 }
 @media (min-width: 1440px) {
   .form1 {
@@ -532,9 +553,9 @@
     border-radius: 5px;
     height: 525px;
   }
-  .para{
+  .para {
     padding: 5%;
-}
+  }
   .name {
     padding: 4%;
     /* border-style: solid; */
@@ -554,12 +575,18 @@
     /* padding: 2%; */
     margin-top: 0%;
   }
- 
-
+  .class {
+    background-color: whitesmoke;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    border-radius: 50px;
+  }
   .individual {
-    width: 30%;
-    border-radius: 5px;
-    border-style: none;
+    width: 100%;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    color: black;
   }
   .individual:hover {
     background-color: white;
@@ -599,9 +626,7 @@
     width: 90%;
   }
 
-
   a {
     text-decoration: none;
   }
-
 }
