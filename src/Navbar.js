@@ -6,18 +6,23 @@ import "./Navbar.css";
 
 const Navigate = () => {
   return (
-    <div>
-      <Navbar className="Parent" collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <Container>
+    <div className="navbaar">
+      <Navbar bg="" expand="lg" className="mv w-100 m-auto">
+      <Container>
+
         <Link to='/'><img src={trad} alt="" /></Link>
-          <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-          <Navbar.Collapse id="responsive-navbar-nav">
-            <Nav className="me-auto"></Nav>
-            <Nav className="textp">
-              <Link to='./Form3' className="buy-sell" a-white> Instant Buy/Sell</Link>
-              <Link to='./Form6' className="leanform" a-white>Learn</Link>
-              <Link to='./Form4' className="NavLink" ><button className="logbtn">Login</button></Link>
-              <Link to='./Form1'><button className="getbtn">Get Started</button></Link>
+
+          <Navbar.Toggle aria-controls="basic-navbar-nav" />
+
+          <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="w-100 justify-content-end">
+
+            <div className="li">
+              <Link to='./Form3' className="any"> Instant Buy/Sell</Link>
+              <Link to='./Form6' className="any">Learn</Link>
+              <Link to='./Form4' className="any log">Log In</Link>
+              <Link to='./Form1' className="any get">Get Started</Link>
+            </div>
             </Nav>
           </Navbar.Collapse>
         </Container>

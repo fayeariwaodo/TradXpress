@@ -1,8 +1,8 @@
 @media (min-width: 320px) {
   .homepage {
     background-color: #7c20be;
-    height: 350px;
-    padding-top: 2%;
+    height: 400px;
+    padding-top: 20%;
     color: white;
   }
 
@@ -36,8 +36,8 @@
   }
 
   .abtn {
-    padding-top: 1%;
-    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-bottom: 5%;
   }
 
   .btnflex {
@@ -47,8 +47,8 @@
 @media(min-width:375px){
   .homepage {
     background-color: #7c20be;
-    height: 350px;
-    padding-top: 2%;
+    height: 400px;
+    padding-top: 17%;
     color: white;
   }
 
@@ -83,7 +83,7 @@
 
   .abtn {
     padding-top: 1%;
-    padding-bottom: 2%;
+    padding-bottom: 3%;
   }
 
   .btnflex {
@@ -92,10 +92,12 @@
 }
 @media(min-width:425px){
   .homepage {
+    
     background-color: #7c20be;
-    height: 350px;
-    padding-top: 2%;
+    height: 400px;
+    padding-top: 13%;
     color: white;
+
   }
 
   .fae{
@@ -129,7 +131,7 @@
 
   .abtn {
     padding-top: 1%;
-    padding-bottom: 2%;
+    padding-bottom: 5%;
   }
 
   .btnflex {
@@ -139,8 +141,8 @@
 @media(min-width:768px){
   .homepage {
     background-color: #7c20be;
-    height: 350px;
-    padding-top: 2%;
+    height: 440px;
+    padding-top: 10%;
     color: white;
   }
 
@@ -185,8 +187,8 @@
 @media(min-width:1024px){
   .homepage {
     background-color: #7c20be;
-    height: 350px;
-    padding-top: 2%;
+    height: 450px;
+    padding-top: 6%;
     color: white;
   }
 
@@ -228,11 +230,11 @@
 @media (min-width: 1366px) {
   .homepage {
     background-color: #7c20be;
-    height: 415px;
+    height: 450px;
     /* border-style: solid; */
     /* padding: 15%; */
     /* padding-left: 2%; */
-    padding-top: 2%;
+    padding-top: 4%;
   }
 
   .container {
@@ -273,11 +275,11 @@
 @media (min-width: 1440px) {
   .homepage {
     background-color: #7c20be;
-    height: 415px;
+    height: 450px;
     /* border-style: solid; */
     /* padding: 15%; */
     /* padding-left: 2%; */
-    padding-top: 2%;
+    padding-top: 3%;
   }
 
   .container {

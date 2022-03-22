@@ -15,25 +15,27 @@ const Form7 = () => {
 
       <h6 className="currency">Coin to Buy</h6>
       <div>
-        <select className="bit" name="" id="">
-          <option value="">Bitcoin(BTC</option>
-          <option value="">usd</option>
-          <option value="">ngn</option>
+      <select className="bit" name="" id="">
+          <option value="">Bitcoin(BTC)</option>
+          <option value="">USD</option>
+          <option value="">NGN</option>
+          <option value="">ETH</option>
         </select>
       </div>
 
       <div>
-        <h6 className="currency">Currency</h6>
+        <h6  className="currency">Currency</h6>
         <select className="bit" name="" id="">
-          <option value="">Dollar(USD)</option>
           <option value="">Naira(NGN)</option>
-          <option value="">ngn</option>
+          <option value="">USD</option>
+          <option value="">ETH</option>
+          <option value="">BTC</option>
         </select>
       </div>
 
       <div>
         <h6 className="currency">Amount</h6>
-        <input className="twobutton" type="text" placeholder="USD" />{" "}
+        <input className="twobutton" type="text" placeholder="USD" disabled/>{" "}
         <input className="second" type="text" placeholder=" 10,000.00" />
       </div>
       <a href="">

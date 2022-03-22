@@ -17,9 +17,10 @@ const Form4 = () => {
 
 
       <div className='move'>
-          <img src={mark} alt="" /><h6>remember password</h6> 
-          
-          <Link className='forgot'>forgot password? </Link>
+          <div><img src={mark} alt="" /></div>
+          <div>
+            <p>Remember password</p></div> 
+            <div><Link className='forgot'><p>forgot password?</p> </Link></div> 
       </div>
      
 

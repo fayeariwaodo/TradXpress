@@ -23,7 +23,7 @@ const Landingpage = () => {
            
            <div className='btnflex'>
             <img src={apple} alt="" />
-            <img src={playstore} alt="" />
+            <img className='plays' src={playstore} alt="" />
           </div>
        </div>
 

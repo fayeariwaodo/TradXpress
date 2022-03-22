@@ -12,6 +12,7 @@ const Simple = () => {
     </h2>
      
      <div className='Contain'>
+       
 
      <span className='Acct'>
      <h4 >
@@ -36,6 +37,7 @@ const Simple = () => {
      </div>
 
      <section className='flexsection'>
+    
 
 
           <span className='depo'>

@@ -1,15 +1,15 @@
 @media (min-width: 320px) {
   .form1 {
-    width: 60%;
+    width: 65%;
     background: #fbf8fd 0% 0% no-repeat padding-box;
     box-shadow: 0px 2px 3px #000000;
     opacity: 1;
     margin: auto;
     text-align: center;
-    margin-top: 5%;
+    margin-top: 10%;
     padding-top: 2rem;
     border-radius: 5px;
-    height: 311px;
+    height: 400px;
   }
   .para{
     padding: 5%;
@@ -26,12 +26,12 @@
   }
 
   .up {
-    width: 45%;
+    width: 50%;
     background-color: #7c20bf;
     border-radius: 10px;
     border-style: none;
     /* padding: 2%; */
-    margin-top: 1%;
+    margin-top: 8%;
   }
   /* * {
         overflow: hidden;
@@ -97,10 +97,10 @@
     opacity: 1;
     margin: auto;
     text-align: center;
-    margin-top: 5%;
+    margin-top: 10%;
     padding-top: 2rem;
     border-radius: 5px;
-    height: 329px;
+    height: 420px;
   }
   .para{
     padding: 5%;
@@ -117,12 +117,12 @@
   }
 
   .up {
-    width: 45%;
+    width: 50%;
     background-color: #7c20bf;
     border-radius: 10px;
     border-style: none;
     /* padding: 2%; */
-    margin-top: 1%;
+    margin-top: 8%;
   }
   /* * {
         overflow: hidden;
@@ -184,10 +184,10 @@
     opacity: 1;
     margin: auto;
     text-align: center;
-    margin-top: 5%;
+    margin-top: 10%;
     padding-top: 2rem;
     border-radius: 5px;
-    height: 329px;
+    height: 450px;
   }
 
   .para{
@@ -205,12 +205,12 @@
   }
 
   .up {
-    width: 45%;
+    width: 50%;
     background-color: #7c20bf;
     border-radius: 10px;
     border-style: none;
     /* padding: 2%; */
-    margin-top: 1%;
+    margin-top: 8%;
   }
   /* * {
         overflow: hidden;
@@ -266,10 +266,10 @@
     opacity: 1;
     margin: auto;
     text-align: center;
-    margin-top: 25%;
+    margin-top: 10%;
     padding-top: 2rem;
     border-radius: 5px;
-    height: 340px;
+    height: 500px;
   }
   .para{
     padding: 5%;
@@ -286,12 +286,12 @@
   }
 
   .up {
-    width: 45%;
+    width: 50%;
     background-color: #7c20bf;
     border-radius: 10px;
     border-style: none;
     /* padding: 2%; */
-    margin-top: 1%;
+    margin-top: 8%;
   }
   /* * {
         overflow: hidden;
@@ -366,12 +366,12 @@
   }
 
   .up {
-    width: 45%;
+    width: 50%;
     background-color: #7c20bf;
     border-radius: 10px;
     border-style: none;
     /* padding: 2%; */
-    margin-top: 1%;
+    margin-top: 8%;
   }
   /* * {
         overflow: hidden;
@@ -441,31 +441,47 @@
     /* border-style: solid; */
     width: 90%;
   }
-
+   .class{
+     background-color: whitesmoke;
+     width:  80%;
+     margin: auto;
+     display: flex;
+     border-radius: 50px;
+   }
+   .individual {
+    width: 100%;
+    border-radius: 50px;
+    background-color: whitesmoke;
+    color: black;
+  }
   input {
     width: 100%;
     border-style: none;
   }
 
   .up {
-    width: 45%;
+    width: 50%;
     background-color: #7c20bf;
     border-radius: 10px;
     border-style: none;
     /* padding: 2%; */
-    margin-top: 1%;
+    margin-top: 0%;
   }
   /* * {
         overflow: hidden;
       } */
 
-  .individual {
-    width: 30%;
-    border-radius: 5px;
-    border-style: none;
-  }
+  
+  /* .indi{
+    border-width: 10%;
+    background-color: white;
+  } */
+  /* .business{
+   margin-right: 15%;
+  } */
   .individual:hover {
     background-color: white;
+    color: black;
   }
 
   .move {
@@ -473,8 +489,9 @@
     padding: 5%;
   }
   .forgot {
-    color: black;
-    padding: 2%;
+    margin-bottom: 20px;
+    /* color: black;
+    padding: 2%; */
   }
   .twobutton {
     border-right: solid;
@@ -530,12 +547,12 @@
   }
 
   .up {
-    width: 45%;
+    width: 50%;
     background-color: #7c20bf;
     border-radius: 10px;
     border-style: none;
     /* padding: 2%; */
-    margin-top: 1%;
+    margin-top: 0%;
   }
  
 
