@@ -14,7 +14,7 @@ const Crypto = () => {
     <div className='fae'>
         {Crypt.map((nora)=>{
 
-      const {name,id, percent_change_1h, price_usd, symbol}= nora
+      const {id, percent_change_1h, price_usd, symbol}= nora
 
       return(
         <div className='you' key={id}>
@@ -22,7 +22,7 @@ const Crypto = () => {
        
        
                <div className='cryptflex'>
-                 <span>{name}</span>
+                 {/* <span>{name}</span> */}
                  <span>{symbol}/NGN</span>
                  <span>{percent_change_1h}%</span>
                </div>
